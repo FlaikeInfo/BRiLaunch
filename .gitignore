@@ -1,0 +1,11 @@
+# Fichiers et dossiers Eclipse
+.classpath
+.project
+.settings/
+bin/
+*.class
+
+# Fichiers de sauvegarde
+*.save
+
+
