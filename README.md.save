@@ -1,0 +1,15 @@
+# BRiLaunch - Plateforme de services dynamiques
+
+Ce projet est une plateforme simple pour le déploiement de services 
+dynamiques utilisant Java et des sockets.
+
+## Fonctionnalités
+- **Serveur BRiLaunch** : gère les connexions des programmeurs et 
+amateurs.
+- **Clients** :
+  - `clientprog` : pour les programmeurs.
+  - `clientama` : pour les amateurs.
+
+## Structure du projet
+
+xXX
